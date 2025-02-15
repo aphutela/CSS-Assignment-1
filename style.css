@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: limegreen;
+}
+
+ul {
+  color: brown;
+  letter-spacing: 5px;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+h3 {
+  color: brown;
+}
+
+.small {
+  color: brown;
+  font-size: x-small;
+}
+
+.it {
+  color: brown;
+  font-style: italic;
+}
+
+.git {
+  background-color: yellow;
+  text-decoration-line: none;
+}
